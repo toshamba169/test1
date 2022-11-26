@@ -9,4 +9,5 @@ int main(){
     V = pi * r * r * h;
     printf("Объем бассейна равен %lg\n", V);
     return 0;
+    // new 
 }
